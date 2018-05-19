@@ -1,0 +1,23 @@
+---
+title: "README"
+author: "Kumar"
+date: "May 19, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#README.md
+
+##This README file provide the information about all the attahments for this project.
+
+Following are the files that are attached to this project and description of each of these files is also mentioned here....
+
+1) run_analysis.R - contains the R code for downloading and reading the file and then cleaning up the names and attached the output to another data file.
+
+2) Codebook.html - This contains the code and the steps involved to create the tidier file
+3) Codebook.MD - Ths contains the markdown version of the above item #2
+4) data_tidy.txt -- This contains the output cleaned up data after processing through the R code.
+5) README.Md -- This file
